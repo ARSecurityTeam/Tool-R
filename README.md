@@ -1,14 +1,14 @@
-<h> ❌ this tools only for termux ❌ </h>
+# ⚠ this tools only for termux ⚠ 
 
 
-# ꧁༒• Tool-R •༒꧂
+<h>  ꧁༒• Tool-R •༒꧂ </h>
 
 
 
-# ARSecurityTeam && DARK HUNTER 
+# ARSecurityTeam && DARK HUNTER™
 
 
-# Installation --🛡
+# Installation --
 
 --------------------------------------------------------
 
