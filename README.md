@@ -1,4 +1,4 @@
-<h> this tools only for termux </h>
+<h> ❌ this tools only for termux ❌ </h>
 
 
 # ꧁༒• Tool-R •༒꧂
