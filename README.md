@@ -39,9 +39,7 @@ $ sh Tool-R.sh
 
 # Follow me
 
-<a href="www.facebook.com/er.romeo.501"> Facebook </a>
-
-<a href="www.youtube.com/channel/UC7g-CoJpUhGHh6HnrdXqKNA"> YouTube </a>
+<p>Follow me on <a href="https://www.facebook.com/your.DaD.06"> Facebook </a></p>
 
 
 
