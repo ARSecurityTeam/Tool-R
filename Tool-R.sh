@@ -20,7 +20,7 @@ echo ""
 echo "  "$red"["$c"+"$red"]"$white" Code: "$red"Shell"  
 echo "  "$red"["$c"+"$red"]"$white" Develop By "$c"{"$red""R"$blue"O"$white"M"$green"E"$yellow"O""$c"}"   
 echo "  "$red"["$c"+"$red"]"$white" This Tools "$red"Use Only "$c"Termux"$white".!!"
-echo "  "$blue"Facebook:"$c" https://www.facebook.com/turu.hacker""$blue"    
+echo "  "$blue"Facebook:"$c" https://www.facebook.com/your.DaD.06""$blue"    
 echo "  "$bule"Github:"$c" https://github.com/ARSecurityTeam"  
 echo " "$white" "$yellow"═══════════════════"$red"✠"$yellow"═══════════════════>"      
 echo ""
@@ -70,6 +70,6 @@ then
 echo ""
 printf "$red"
 echo "        "["$c"√"$red"]""$yellow" Exiting The "$green"Program..."
-termux-open-url https://www.facebook.com/turu.hacker
+termux-open-url https://www.facebook.com/your.DaD.06
 exit
 fi
