@@ -1,4 +1,4 @@
-<a href="https://www.buymeacoffee.com/arsecurityteam"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUgJlXVkeDgBc8IoOtYVDqGmw9nUICP5vB2AnHLw7MKu2oWx7UnoGec6Sz&s=10"></a>
+
 
 
 # Installation --
